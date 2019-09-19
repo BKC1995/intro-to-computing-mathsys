@@ -21,7 +21,7 @@ You can access these machines using the following command in the terminal:
 
 ssh username@hostname.complexity.warwick.ac.uk
 
-Once you have your scrtp account, try accessing one of the complexity machines. Note that some machines are no longer maintained so if you do not connect withing 20 seconds, try another hostname.
+Once you have your scrtp account, try accessing one of the complexity machines. You could also apply the techniques learnt earlier in the week regarding bash and ubuntu. Note that some machines are no longer maintained so if you do not connect withing 20 seconds, try another hostname.
 
 ## MathSys SCRTP Machines (GPUs)
 MathSys also have machines with GPUs since Summer 2019. The hostnames are:
