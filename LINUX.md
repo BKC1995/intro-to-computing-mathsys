@@ -1,4 +1,4 @@
-# Linux Cheatsheets
+# Linux Cheat Sheets
 Here is a list of useful cheat sheets for using Linux:
 
 - [Setting up University of Warwick Wi-Fi on Linux machines](https://warwick.ac.uk/services/its/servicessupport/networkservices/wifi/hotspot-secure/linux2/)  
